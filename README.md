@@ -12,8 +12,8 @@ Each player starts in the same position, but there are different obstacles on ea
 ## Tech Stack
 
 - **C++**  
-- **SFML** for graphics and audio
-- **NO game engine** I had to code all the logic from scratch
+- **SFML** (for graphics and audio)
+- **NO game engine** (I had to code all the logic from scratch)
 
 ## Download / Try It
 
